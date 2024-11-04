@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ovokaoxe.github.io/TDR/sitemap_index.txt
+Sitemap: https://ovokaoxe.github.io/lvB/sitemap_index.txt
+Sitemap: https://ovokaoxe.github.io/mBf/sitemap_index.txt
+Sitemap: https://ovokaoxe.github.io/mwv/sitemap_index.txt
